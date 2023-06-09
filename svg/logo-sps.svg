@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 128 128.02">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="117.15" x2="125.68" y2="117.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dba012"/>
+      <stop offset=".22" stop-color="#e9b721"/>
+      <stop offset=".48" stop-color="#f5cb2f"/>
+      <stop offset=".74" stop-color="#fcd737"/>
+      <stop offset="1" stop-color="#ffdb3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="5.6" y1="63.95" x2="121.96" y2="63.95" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e6"/>
+      <stop offset=".74" stop-color="#ededed"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="6.02" y1="43.55" x2="123" y2="43.55" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dba012"/>
+      <stop offset=".24" stop-color="#dfa717"/>
+      <stop offset=".61" stop-color="#ecbd25"/>
+      <stop offset="1" stop-color="#ffdb3a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="59" y1="67" x2="70.01" y2="67" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Ship">
+    <path id="ShipFill" class="cls-5" d="m125.68,128.01s.15-10.88-20.16-18.17-78.53-1.87-105.35,2.96h-.18v15.2h125.68Z"/>
+    <path id="ShipOutline" class="cls-1" d="m125.68,128.01s.15-10.88-20.16-18.17-78.53-1.87-105.35,2.96h-.18"/>
+  </g>
+  <g id="Post">
+    <path id="Sails" class="cls-2" d="m16.82,29.9S.28,18.75,7.36,70.88s36.65,19.51,57.15-.01c0,0-4.6,51.22,37.45.01,42.05-51.21,4.73-40.98,4.73-40.98"/>
+    <path id="PostHor" class="cls-3" d="m6.02,32.58c0-2.42,1.51-4.39,3.36-4.39h110.26c1.86,0,3.36,1.97,3.36,4.39h0c0,2.42-1.51,4.39-3.36,4.39,0,0-49.63-8.78-49.63,8.78s-11.01,17.56-11.01,0-49.62-8.78-49.62-8.78c-1.86,0-3.36-1.97-3.36-4.39h0Z"/>
+    <path id="PostVert" class="cls-4" d="m59,128.01V11.34c0-2.95,2.46-5.34,5.5-5.34h0c3.04,0,5.5,2.39,5.5,5.34v116.67"/>
+  </g>
+</svg>

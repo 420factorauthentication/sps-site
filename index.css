@@ -6,3 +6,25 @@ body {
         linear-gradient(135deg, transparent 0% 49%, #ffc0cb 50%, #ffb2ef),
         linear-gradient(315deg, transparent 0% 49%, #ffc0cb 50%, #ffb2ef);
 }
+
+#logoBox {
+    width: 30vw;
+    height: 60vh;
+    padding: 3vh 3vw;
+    position: absolute;
+    top: 5vh;
+    left: 5vw;
+    border: 8px solid black;
+    border-radius: 48px;
+    background-image: 
+        linear-gradient(135deg, transparent 0% 49%, #fff 50%, #eee),
+        linear-gradient(315deg, transparent 0% 49%, #fff 50%, #eee);
+}
+
+#logo {
+    border: 6px solid black;
+    border-radius: 24px;
+    background-image: 
+        linear-gradient(135deg, transparent 0% 49%, #BAFCA2 50%, #90EE90),
+        linear-gradient(315deg, transparent 0% 49%, #BAFCA2 50%, #90EE90);
+}
