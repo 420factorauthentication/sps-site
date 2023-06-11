@@ -15,6 +15,7 @@ body {
 }
 
 #logo {
+    box-sizing: border-box;
     width: 60vw;
     height: auto;
     padding: 16px;
